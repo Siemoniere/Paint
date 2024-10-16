@@ -20,7 +20,7 @@ import javafx.scene.transform.Translate;
  */
 public class CircleActions {
 
-    private String[] colors ={"Red", "Green", "Blue"};
+    private String[] colors ={"Pink", "Green", "Blue"};
     private ContextMenu contextMenu;
     private MenuItem item;
     private double r, TstartX, TstartY, TendX, TendY;
