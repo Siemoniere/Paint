@@ -28,7 +28,7 @@ public class Paint extends Application{
      * @param okno Główna scena/stage, na której wyświetlane są komponenty.
      */
     @Override
-    public void start (Stage okno){
+    public void start (Stage okienko){
         okno.setHeight(1200);
         okno.setWidth(1800);
         okno.setTitle("Paint");
